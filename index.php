@@ -1,6 +1,6 @@
 <?php
 
-$url = "http://bts-sio.azurewebsites.net/";
+$url = "http://placer-l'adresse-de-votre-site/";
 
 
 //les lignes ci-dessous permettent d'ajouter des paramètres au GET
