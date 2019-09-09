@@ -1,1 +1,1 @@
-Envoi de meesage automatique vers un site web
+Envoi de message automatique vers un site web
